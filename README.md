@@ -1,2 +1,1 @@
-# TradeWorld2020
- 
+# TradeWorld
